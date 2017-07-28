@@ -1,0 +1,50 @@
+name: +x
+analytics: {}
+purpose:
+  - type: contact
+    url: 'mailto:carlos@plu.sx'
+    label: Contact
+github: true
+description: Hello Again
+author:
+  name: Carlos Augusto
+  url: 'http://plu.sx'
+  email: carlos@plu.sx
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.2497513620182872
+color:
+  lightness: 0.3628904460929334
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+  saturation: 0.04362026392482221
+  brandStrength: 0.8567044313531369
+  rhythmicContrast: 0.3812775614205748
+content_rating:
+  adult: false
+typography_spectrum: 0.9161870260722935
+opengraph: {}
+title: +x
+url: 'http://plu.sx'
